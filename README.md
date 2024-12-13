@@ -34,6 +34,7 @@ This SwiftUI project demonstrates the creation of a dynamic circle-based layout 
 This view can be used in any SwiftUI-based iOS project to create a visually appealing static circle-based layout. You can customize the number displayed in the center, the size and count of small circles, as well as the colors used.
 
 ## Preview
+![Screenshot 2024-12-13 at 3 39 00 PM](https://github.com/user-attachments/assets/09bf2263-e6fe-44a1-89c1-7d8b7023dcef)
 
 ```swift
 #Preview {
